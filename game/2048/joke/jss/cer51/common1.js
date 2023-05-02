@@ -135,6 +135,6 @@ function noMove(nums){
 
 function IsGameOver(){
 	if(nospace(nums)&& noMove(nums)){
-		alert('Game Over!');
+		alert('Because you are too weak, you lose this game, you are a loser, and MoYeRanQianZhi will laugh at you mercilessly!');
 	}
 }
